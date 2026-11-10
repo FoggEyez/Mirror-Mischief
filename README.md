@@ -14,12 +14,11 @@ The goal is simple installation, understandable settings and useful displays tha
 | [Haven · Home network](https://github.com/FoggEyez/MMM-MCHF-Haven) | Internet response history; optional private telemetry | HTTPS probe, no account by default |
 | [Vigil · System health](https://github.com/FoggEyez/MMM-MCHF-Vigil) | Local health and configurable external checks | No external collector required |
 | [Tide · Economy](https://github.com/FoggEyez/MMM-MCHF-Tide) | US economic releases and reporting periods | FRED public downloads, Python 3, no key |
-
 | [Atmos · Dynamic weather](https://github.com/FoggEyez/MMM-MCHF-Atmos) | Snow, frost, rain, heat and thunderstorm atmosphere | Native current weather or optional Open-Meteo |
+
 
 **MCHF = Mischief.** Short names carry the collection’s identity: Rite (tradition), Atmos (atmosphere), Wit (humor), Luna (Moon), Astra (stars), Vigil (watchfulness), Haven (home), Tide (economic currents), and Air (local air conditions).
 
-| [Atmos · Dynamic weather](https://github.com/FoggEyez/MMM-MCHF-Atmos) | Snow, frost, rain, heat and thunderstorm atmosphere | Native current weather or optional Open-Meteo |
 
 ## The Mirror Mischief companion
 
