@@ -16,4 +16,4 @@ Nine public previews are prepared for the [official wiki list](https://github.co
 
 Every entry identifies its public-preview status. Manual installation and configuration are documented in each repository; the companion is optional.
 
-Submission status: repositories and preview releases are public. The official wiki edit is pending. A [prepared nine-entry patch](module-list.patch) preserves existing entries and places each module in its relevant category.
+Submission status: all nine entries are published in the [official wiki list](https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-Party-Modules). The saved revision is `309fed50e1542a823d69e1f88ad0ee29414ea152`, authored by FoggEyez. Its change adds exactly nine rows without modifying existing entries. The searchable community catalog refreshes separately. The [recorded patch](module-list.patch) contains the published update.
