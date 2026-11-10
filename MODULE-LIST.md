@@ -15,3 +15,5 @@ Nine public previews are prepared for the [official wiki list](https://github.co
 | [MMM-MCHF-Luna](https://github.com/FoggEyez/MMM-MCHF-Luna) | Weather |
 
 Every entry identifies its public-preview status. Manual installation and configuration are documented in each repository; the companion is optional.
+
+Submission status: repositories and preview releases are public. The official wiki edit is pending. A [prepared nine-entry patch](module-list.patch) preserves existing entries and places each module in its relevant category.

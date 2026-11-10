@@ -1,0 +1,48 @@
+diff --git a/3rd-Party-Modules.md b/3rd-Party-Modules.md
+index 39048f5..5fd6c18 100644
+--- a/3rd-Party-Modules.md
++++ b/3rd-Party-Modules.md
+@@ -198,6 +198,7 @@ The following modules are maintained by their respective authors. If you have a
+ |[MMM-LibraryMonitor](https://github.com/HeikoGr/MMM-LibraryMonitor) |HeikoGr |Shows which media are currently borrowed from the local library (via OPAC account) and when they are due. |
+ |[MMM-LogisticMap](https://github.com/charleswest775/MMM-LogisticMap) |[Charles West](https://github.com/charleswest775) |The road to chaos: the logistic map's bifurcation diagram paints itself, then a cobweb sweeps through period doubling into chaos. |
+ |[MMM-LorenzAttractor](https://github.com/charleswest775/MMM-LorenzAttractor) |[Charles West](https://github.com/charleswest775) |The Lorenz attractor: three trajectories released 10⁻⁵ apart trace the butterfly as one, then split, while the view turns in 3D. |
++|[MMM-MCHF-Astra](https://github.com/FoggEyez/MMM-MCHF-Astra) |[FoggEyez](https://github.com/FoggEyez) |Offline star canopy with local astronomy and optional constellation lines. Public preview. |
+ |[MMM-NightSky](https://github.com/charleswest775/MMM-NightSky) |[Charles West](https://github.com/charleswest775) |Tonight's sky over your mirror as a star chart: constellations, planets, the Moon in its phase, risings, and one star's story. |
+ |[MMM-Planetarium](https://github.com/MMRIZE/MMM-Planetarium) |MMRIZE |Make your mirror to a Planetarium. |
+ |[MMM-phase6](https://github.com/ms-zone-41/MMM-phase6) |[ms-zone-41](https://github.com/ms-zone-41) |Display [phase6](https://www.phase-6.de/) vocabulary learning statistics (last learned, due count, learning streak) for one or more family profiles. |
+@@ -234,6 +235,8 @@ The following modules are maintained by their respective authors. If you have a
+ |[MMM-AvfallshentingOslo](https://github.com/blixhavn/MMM-AvfallshentingOslo) |Blixhavn |Show the next waste pickup dates for any address in Oslo, Norway. |
+ |[MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) |darickc |Show fullscreen slideshow in background from images in a local folder. Great for a photo frame. |
+ |[MMM-bernwordclock](https://github.com/splattner/MMM-bernwordclock) |splattner |Displays a Word Clock written in the Swiss German dialect of Bern. |
++|[MMM-MCHF-Rite](https://github.com/FoggEyez/MMM-MCHF-Rite) |[FoggEyez](https://github.com/FoggEyez) |Customizable holiday scenes, fitted frost, a scene builder and personal occasions. Public preview. |
++|[MMM-MCHF-Wit](https://github.com/FoggEyez/MMM-MCHF-Wit) |[FoggEyez](https://github.com/FoggEyez) |Original offline humor, custom phrases and gentle text fades. Public preview. |
+ |[MMM-WordClock-Native](https://github.com/frankturban/MMM-WordClock-Native) |frankturban |Native German WordClock module. |
+ |[MMM-BinaryClock](https://github.com/nikobix/MMM-BinaryClock) |Nikobix |Simple Binary Clock. |
+ |[MMM-BirdOfTheDay](https://github.com/cgillinger/MMM-BirdOfTheDay) |cgillinger |Displays a new bird every day with a photo, name, and interesting facts. Powered by the Nuthatch API by Last Elm Software, it's perfect for bird enthusiasts or anyone who wants to bring a touch of nature to their MagicMirror setup. |
+@@ -500,6 +503,7 @@ The following modules are maintained by their respective authors. If you have a
+ |[MMM-FamZoo](https://github.com/trumpetx/MMM-FamZoo) |trumpetx |Display FamZoo balances. |
+ |[MMM-Helium-Wallet](https://github.com/hayseedbyte/MMM-Helium-Wallet) |hayseedbyte |Display your helium wallet balance and value (in your chosen currency). |
+ |[MMM-Jast](https://github.com/jalibu/MMM-Jast) |jalibu & KristjanESPERANTO |A simple but powerful vertical, horizontal or static stock ticker based on Yahoo's finance API. Supports international stocks, crypto currencies and index symbols. No API key required. |
++|[MMM-MCHF-Tide](https://github.com/FoggEyez/MMM-MCHF-Tide) |[FoggEyez](https://github.com/FoggEyez) |US economic releases via FRED with clear reporting periods; requires Python 3. Public preview. |
+ |[MMM-MktIndex](https://github.com/thess/MMM-MktIndex) |thess |Display market indices using (free) Yahoo Finance API. |
+ |[MMM-NFTcollections](https://github.com/TemianMihai/MMM-NFTcollections) |TemianMihai |Display details about a NFT collection. |
+ |[MMM-Nordic-Electrical-Spot-Prices](https://github.com/cSharpBastard/mmm-nordic-electrical-spot-prices) |[cSharpBastard](https://github.com/cSharpBastard) |Display current electrical spot prices in northern Europe (also works in Germany). |
+@@ -899,6 +903,8 @@ The following modules are maintained by their respective authors. If you have a
+ 
+ |Title |Maintainer |Description |
+ |:-|:-:|:-|
++|[MMM-MCHF-Haven](https://github.com/FoggEyez/MMM-MCHF-Haven) |[FoggEyez](https://github.com/FoggEyez) |HTTPS response history with optional private network snapshots. Public preview. |
++|[MMM-MCHF-Vigil](https://github.com/FoggEyez/MMM-MCHF-Vigil) |[FoggEyez](https://github.com/FoggEyez) |Local mirror health with optional external system checks. Public preview. |
+ |[MMM-mmpm](https://github.com/Bee-Mar/MMM-mmpm) |Bee-Mar |Companion module for MMPM to enable hiding/showing of MagicMirror² modules. |
+ |[MMM-01ZM](https://github.com/rubinho101/MMM-01ZM) |rubinho101 |Display Xiaomi LYWSDCGQ 01ZM Temperature and Humidity sensor values directly AND Nova SDS011 PM Air Quality sensor data. |
+ |[MMM-Advent](https://github.com/Jopyth/MMM-Advent) |Jopyth |Display a candle burning down towards a specific date (e.g. an advent candle). |
+@@ -1410,6 +1416,9 @@ The following modules are maintained by their respective authors. If you have a
+ |[MMM-Luftdaten](https://github.com/pixxelfriend/MMM-Luftdaten) |[pixxelfriend](https://github.com/pixxelfriend) |Displays data (particulate matter PM2.5/PM10, temperature, pressure) from air quality sensors, connected to [sensor.community](https://sensor.community) or local wifi. |
+ |[MMM-MarineWeather](https://github.com/grenagit/MMM-MarineWeather) |Grena |Display the current marine weather (water and air temperatures, wind and wave conditions). |
+ |[MMM-MarsWeather](https://github.com/rcollie/MMM-MarsWeather) |rcollie |Display current weather on Mars as provided by The {MAAS} API. |
++|[MMM-MCHF-Air](https://github.com/FoggEyez/MMM-MCHF-Air) |[FoggEyez](https://github.com/FoggEyez) |Regional US AirNow observations and active National Weather Service alerts. Public preview. |
++|[MMM-MCHF-Atmos](https://github.com/FoggEyez/MMM-MCHF-Atmos) |[FoggEyez](https://github.com/FoggEyez) |Current-weather snow, frost, rain and heat effects; native weather or Open-Meteo. Public preview. |
++|[MMM-MCHF-Luna](https://github.com/FoggEyez/MMM-MCHF-Luna) |[FoggEyez](https://github.com/FoggEyez) |Offline NASA-textured Moon with continuously calculated phase lighting. Public preview. |
+ |[MMM-Metar](https://github.com/calonmerc/MMM-Metar) |[calonmerc](https://github.com/calonmerc) |Display METAR data for airports world-wide. (optionally no formatting) |
+ |[MMM-MetarTaf](https://github.com/PeanutToes6/MMM-MetarTaf) |[PeanutToes6](https://github.com/PeanutToes6) |Displays decoded METAR observations and optional TAF forecasts for any airport with an ICAO code, with wind direction arrows and runway diagrams. No API key required. AI-assisted (written with Claude). |
+ |[MMM-meteoblueCurrent](https://github.com/Bangee44/MMM-meteoblueCurrent) |Bangee44 |Display current weather based on the Meteoblue.com API. |
