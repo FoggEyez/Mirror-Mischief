@@ -47,3 +47,9 @@ Information modules include neutral earthy card backgrounds: Moss, Sage, Clay, S
 ## Updating from the earlier repository names
 
 GitHub redirects the earlier MMM-Mischief repository URLs after the rename, preserving history and issues. MagicMirror needs the folder, main JavaScript filename and `module` name to agree: install the new MMM-MCHF repository in its own folder, transfer the settings you want and disable the earlier entry before enabling its replacement. Keep a copy of your configuration first. Rite has a new scene model; use its Scene Studio or documented defaults rather than assuming every legacy frost option maps directly.
+
+## Latest polish release
+
+Rite 0.2.2, Atmos 0.1.1 and the other seven modules at 0.2.1. This pass improves weather pause/resume, handles missing network and health data explicitly, keeps every economic indicator readable with reduced motion, and adds visible severe-alert guidance. Each repository now includes a troubleshooting guide and current previews. Manual installation and configuration remain first-class paths.
+
+The companion development build adds a curated nine-module gallery, clearer settings progress and recovery, and connection checks before saved preferences change. Its independent public installer remains in development.
