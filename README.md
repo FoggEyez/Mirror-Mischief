@@ -6,6 +6,7 @@ The goal is simple installation, understandable settings and useful displays tha
 
 | Module | What it does | Network/account requirements |
 | --- | --- | --- |
+| [Flow · Adaptive layout](https://github.com/FoggEyez/MMM-MCHF-Flow) | Responsive card sizes, smooth reflow and button-ready expansion | Offline; helper with no screen position |
 | [Wit · Funny comments](https://github.com/FoggEyez/MMM-MCHF-Wit) | Original humor and your own phrases | Offline, no account |
 | [Luna · Moon](https://github.com/FoggEyez/MMM-MCHF-Luna) | NASA-textured Moon and local phase lighting | Offline, no account |
 | [Astra · Star canopy](https://github.com/FoggEyez/MMM-MCHF-Astra) | A dim star canopy for your location | Offline, no account |
@@ -17,7 +18,7 @@ The goal is simple installation, understandable settings and useful displays tha
 | [Atmos · Dynamic weather](https://github.com/FoggEyez/MMM-MCHF-Atmos) | Snow, frost, rain, heat and thunderstorm atmosphere | Native current weather or optional Open-Meteo |
 
 
-**MCHF = Mischief.** Short names carry the collection’s identity: Rite (tradition), Atmos (atmosphere), Wit (humor), Luna (Moon), Astra (stars), Vigil (watchfulness), Haven (home), Tide (economic currents), and Air (local air conditions).
+**MCHF = Mischief.** Short names carry the collection’s identity: Flow (making room for change), Rite (tradition), Atmos (atmosphere), Wit (humor), Luna (Moon), Astra (stars), Vigil (watchfulness), Haven (home), Tide (economic currents), and Air (local air conditions).
 
 
 ## The Mirror Mischief companion
@@ -53,3 +54,7 @@ GitHub redirects the earlier MMM-Mischief repository URLs after the rename, pres
 Rite 0.2.2, Atmos 0.1.1 and the other seven modules at 0.2.1. This pass improves weather pause/resume, handles missing network and health data explicitly, keeps every economic indicator readable with reduced motion, and adds visible severe-alert guidance. Each repository now includes a troubleshooting guide and current previews. Manual installation and configuration remain first-class paths.
 
 The companion development build adds a curated nine-module gallery, clearer settings progress and recovery, and connection checks before saved preferences change. Its independent public installer remains in development.
+
+## Flow public preview
+
+[MMM-MCHF-Flow](https://github.com/FoggEyez/MMM-MCHF-Flow) adds an optional adaptive board layout. Cards use real widths/heights, move smoothly and can expand through local notifications ready for later buttons. The included interactive preview demonstrates the actual controller. Flow has manual and companion settings, no backend/account/API requirement, and no visible card of its own. It has not migrated the development Pi’s daily layout. Fixed/fullscreen or unusual module layouts need exclusions or specific support; see its guide before enabling.

@@ -2,11 +2,13 @@
 
 ## Current public previews
 
-Nine independently installable modules: Rite, Atmos, Wit, Luna, Astra, Vigil, Haven, Tide and Air. MCHF means Mischief. Each includes manual configuration, optional companion metadata, screenshots, automated checks and attribution.
+Ten independently installable modules: Flow, Rite, Atmos, Wit, Luna, Astra, Vigil, Haven, Tide and Air. MCHF means Mischief. Each includes manual configuration, optional companion metadata, screenshots, automated checks and attribution.
 
 Rite adds a scene builder, ten original scene presets, custom occasions, fitted targets, clear areas, quiet hours and shareable appearance presets. Atmos responds to fresh current weather with bounded local effects. Wit fades individual phrases. Information cards offer earthy backgrounds and native entrance choices.
 
 The development companion now supports running on the mirror's own Raspberry Pi, a Using this Pi / Another Pi setup choice and Start mirror. **A public companion installer is not released yet.** Packaging that private development app for independent public installation and recovery remains separate work.
+
+Flow now provides a first adaptive layout preview, including local expansion controls for future buttons. Physical button integration and compatibility validation on real mixed-module mirrors remain future work.
 
 ## Next priorities
 
