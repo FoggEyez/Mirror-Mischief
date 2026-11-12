@@ -1,6 +1,6 @@
-# Community module-list submission
+# Community module-list publication
 
-Nine public previews are prepared for the [official wiki list](https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-party-modules), which feeds the searchable community catalog on its own refresh schedule. Publishing a repository does not automatically update that catalog.
+Eleven Mischief public-preview modules are listed in the [official wiki](https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-Party-Modules). The searchable community catalog refreshes separately. Publishing a repository alone does not update that catalog.
 
 | Module | Category |
 | --- | --- |
@@ -13,7 +13,9 @@ Nine public previews are prepared for the [official wiki list](https://github.co
 | [MMM-MCHF-Air](https://github.com/FoggEyez/MMM-MCHF-Air) | Weather |
 | [MMM-MCHF-Atmos](https://github.com/FoggEyez/MMM-MCHF-Atmos) | Weather |
 | [MMM-MCHF-Luna](https://github.com/FoggEyez/MMM-MCHF-Luna) | Weather |
+| [MMM-MCHF-Hora](https://github.com/FoggEyez/MMM-MCHF-Hora) | Entertainment / Misc |
+| [MMM-MCHF-Echo](https://github.com/FoggEyez/MMM-MCHF-Echo) | Entertainment / Misc |
 
-Every entry identifies its public-preview status. Manual installation and configuration are documented in each repository; the companion is optional.
+Hora and Echo were added on 2026-11-11 (America/Los_Angeles). The final verified change adds exactly two rows and removes none of the previous list. Saved revision: `ee84d61112f10e1d9fea829b9f2ebb0bf435b376`. See [their recorded patch](hora-echo-module-list.patch). The earlier nine-entry patch remains [here](module-list.patch).
 
-Submission status: all nine entries are published in the [official wiki list](https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-Party-Modules). The saved revision is `309fed50e1542a823d69e1f88ad0ee29414ea152`, authored by FoggEyez. Its change adds exactly nine rows without modifying existing entries. The searchable community catalog refreshes separately. The [recorded patch](module-list.patch) contains the published update.
+Flow is published separately; its wiki/forum submission remains pending. Every module supports ordinary manual installation and configuration. The companion is optional.

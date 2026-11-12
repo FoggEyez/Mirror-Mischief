@@ -1,0 +1,13 @@
+diff --git a/3rd-Party-Modules.md b/3rd-Party-Modules.md
+index f81a8b9..40ead8b 100644
+--- a/3rd-Party-Modules.md
++++ b/3rd-Party-Modules.md
+@@ -235,6 +235,8 @@ The following modules are maintained by their respective authors. If you have a
+ |[MMM-AvfallshentingOslo](https://github.com/blixhavn/MMM-AvfallshentingOslo) |Blixhavn |Show the next waste pickup dates for any address in Oslo, Norway. |
+ |[MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) |darickc |Show fullscreen slideshow in background from images in a local folder. Great for a photo frame. |
+ |[MMM-bernwordclock](https://github.com/splattner/MMM-bernwordclock) |splattner |Displays a Word Clock written in the Swiss German dialect of Bern. |
++|[MMM-MCHF-Echo](https://github.com/FoggEyez/MMM-MCHF-Echo) |[FoggEyez](https://github.com/FoggEyez) |Responsive Spotify display with intact artwork, ambient glow and stale-data fades; existing OnSpotify or independent setup. Public preview. |
++|[MMM-MCHF-Hora](https://github.com/FoggEyez/MMM-MCHF-Hora) |[FoggEyez](https://github.com/FoggEyez) |Offline observatory clock with adaptive dial faces, Gothic Flip digits and optional locally calculated daylight. Public preview. |
+ |[MMM-WordClock-Native](https://github.com/frankturban/MMM-WordClock-Native) |frankturban |Native German WordClock module. |
+ |[MMM-BinaryClock](https://github.com/nikobix/MMM-BinaryClock) |Nikobix |Simple Binary Clock. |
+ |[MMM-BirdOfTheDay](https://github.com/cgillinger/MMM-BirdOfTheDay) |cgillinger |Displays a new bird every day with a photo, name, and interesting facts. Powered by the Nuthatch API by Last Elm Software, it's perfect for bird enthusiasts or anyone who wants to bring a touch of nature to their MagicMirror setup. |

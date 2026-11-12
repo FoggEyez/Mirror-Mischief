@@ -6,6 +6,8 @@ The goal is simple installation, understandable settings and useful displays tha
 
 | Module | What it does | Network/account requirements |
 | --- | --- | --- |
+| [Hora · Observatory clock](https://github.com/FoggEyez/MMM-MCHF-Hora) | Clear round dial, Gothic Flip digits, date placement and optional daylight | Offline, no account |
+| [Echo · Music](https://github.com/FoggEyez/MMM-MCHF-Echo) | Artwork, ambient glow and responsive music layouts | Existing OnSpotify, your own Spotify app or local playback notifications |
 | [Flow · Adaptive layout](https://github.com/FoggEyez/MMM-MCHF-Flow) | Responsive card sizes, smooth reflow and button-ready expansion | Offline; helper with no screen position |
 | [Wit · Funny comments](https://github.com/FoggEyez/MMM-MCHF-Wit) | Original humor and your own phrases | Offline, no account |
 | [Luna · Moon](https://github.com/FoggEyez/MMM-MCHF-Luna) | NASA-textured Moon and local phase lighting | Offline, no account |
@@ -18,14 +20,14 @@ The goal is simple installation, understandable settings and useful displays tha
 | [Atmos · Dynamic weather](https://github.com/FoggEyez/MMM-MCHF-Atmos) | Snow, frost, rain, heat and thunderstorm atmosphere | Native current weather or optional Open-Meteo |
 
 
-**MCHF = Mischief.** Short names carry the collection’s identity: Flow (making room for change), Rite (tradition), Atmos (atmosphere), Wit (humor), Luna (Moon), Astra (stars), Vigil (watchfulness), Haven (home), Tide (economic currents), and Air (local air conditions).
+**MCHF = Mischief.** Short names carry the collection’s identity: Hora (hour), Echo (sound that leaves an impression), Flow (making room for change), Rite (tradition), Atmos (atmosphere), Wit (humor), Luna (Moon), Astra (stars), Vigil (watchfulness), Haven (home), Tide (economic currents), and Air (local air conditions).
 
 
 ## The Mirror Mischief companion
 
 Mirror Mischief is the companion being developed alongside these modules: browse repositories, install and configure modules, move them between native mirror regions, save changes and check setup from one desktop interface.
 
-**Public companion installer: not yet released.** This hub does not currently contain a downloadable companion application. The existing development companion supports Install from a link and generated module settings; the modules can be installed manually today. Companion manifests describe each module's settings contract; current settings discovery reads the JavaScript defaults. Packages have automated and isolated browser checks. Rite, Atmos and Wit have also been installed and checked on the development Raspberry Pi; broader device coverage is still welcome.
+**Public companion installer: not yet released.** This hub does not currently contain a downloadable companion application. The existing development companion supports Install from a link and generated module settings; the modules can be installed manually today. Companion manifests describe each module's settings contract; current settings discovery reads the JavaScript defaults. Packages have automated and isolated browser checks. Rite, Atmos, Wit, Hora and Echo have also been installed and checked on the development Raspberry Pi; broader device coverage is still welcome.
 
 Already using Mirror Mischief? Open Browse modules → Install from a link, paste a module repository URL, then open Module settings, choose a position and save. Run Check setup and inspect the physical display. Legacy local names are separate installations: disable the earlier version before enabling its Mischief replacement.
 
@@ -58,3 +60,7 @@ The companion development build adds a curated nine-module gallery, clearer sett
 ## Flow public preview
 
 [MMM-MCHF-Flow](https://github.com/FoggEyez/MMM-MCHF-Flow) adds an optional adaptive board layout. Cards use real widths/heights, move smoothly and can expand through local notifications ready for later buttons. The included interactive preview demonstrates the actual controller. Flow has manual and companion settings, no backend/account/API requirement, and no visible card of its own. It has not migrated the development Pi’s daily layout. Fixed/fullscreen or unusual module layouts need exclusions or specific support; see its guide before enabling.
+
+## Hora and Echo public previews
+
+Hora 0.1.1 floats directly on the mirror, with a round dial or rectangular Gothic Flip digits, a date above or below, and locally bundled blackletter type. Echo 0.1.1 keeps original Spotify artwork and a configurable glow while paused, then fades stale artwork and light over 1.8 seconds. Both provide manual setup, literal settings defaults and optional companion settings. Echo reuses an installed OnSpotify connection without another login, or accepts an independently configured source.
